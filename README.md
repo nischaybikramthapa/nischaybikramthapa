@@ -6,10 +6,10 @@
 - :toolbox: Languages:  ```Python```   ``` R ```  ``` SQL```  ```Java```  ``` Scala```
 - :rocket: Libraries:  ```Numpy```  ```Pandas```  ```Scikit-Learn```  ``` Tensorflow```  ``` Pytorch```   ```modAL```
 - ⚡ MLOPS:  ```mlflow```  ```Docker``` ```AWS Sagemaker```
-- 🐘 Distributed Computing: ```Hadoop```, ```PySpark```. ```Hive```
+- 🐘 Distributed Computing: ```Hadoop```  ```PySpark```  ```Hive```
 - ☁️ Cloud Technologies: ```AWS```   ``` Azure```
 -  **Reach me at:** [:envelope:](mailto:nischaybikramthapa14@gmail.com)
--  **Where to find me:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](www.linkedin.com/in/nischaythapa/)
+-  **Where to find me:** [![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/nischaythapa/)
 
 <!--
 **nischaybikramthapa/nischaybikramthapa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

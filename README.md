@@ -13,4 +13,4 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: ...
 -->
-![Stats](https://github-readme-stats.vercel.app/api?username=nischaybikramthapa&count_private=true&show_icons=true&theme=radical&hide_rank=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=nischaybikramthapa&count_private=true&show_icons=true&theme=radical&hide_rank=false)

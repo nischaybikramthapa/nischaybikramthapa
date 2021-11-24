@@ -1,7 +1,7 @@
 ### Hi there, I'm Nischay 👋 
 
 * 👨‍🎓 I'm a **Data Scientist**, passionate about generating **value** for organisations with **data-driven** strategies and products.
-* 🩺 I'm currently involved in **clinical NLP research** :hospital: and working as a Data Scientist at **The Data Foundry** ✈️
+* 🩺 I'm currently involved in **clinical NLP research** :hospital: and working as a Data Scientist at **The Data Foundry** <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="30" height="30"/>
 * :chart_with_upwards_trend: My interest are in ``` Natural Language Processing```  ``` Computer Vision``` ,  ```Machine Learning``` and ```Explainable AI (XAI)```
 
 **My toolbox** 

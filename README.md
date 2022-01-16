@@ -11,9 +11,9 @@
 
 <a href="mailto:nischaybikramthapa14@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="nischaybikramthapa14@gmail.com" height="30" width="30" /></a> &nbsp; &nbsp; <a href="https://www.linkedin.com/in/nischaythapa/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/nischaythapa/" height="30" width="30" /></a>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=nischaybikramthapa&count_private=true&show_icons=true&theme=dark&hide_rank=false)
+<!-- ![Stats](https://github-readme-stats.vercel.app/api?username=nischaybikramthapa&count_private=true&show_icons=true&theme=dark&hide_rank=false)
 
-
+ -->
 
 
 

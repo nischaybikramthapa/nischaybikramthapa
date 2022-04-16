@@ -7,10 +7,10 @@
   <img align="left" alt="Nischay' LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" />
 </a>
 <a href="https://nischaybikramthapa.github.io/">
-  <img align="left" alt="Alexandru Bangau | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/icloud.svg" />
+  <img align="left" alt="Nischay Thapa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/icloud.svg" />
 </a>
 
-<p align="right"><img align="right" src="https://gitwar.herokuapp.com/badge?username=nischaybikramthapa&style=flat-square&color=blueviolet&label=GITHUB+PROFILE+SCORE" alt="rammazzoti2000"/></p>
+<p align="right"><img align="right" src="https://gitwar.herokuapp.com/badge?username=nischaybikramthapa&style=flat-square&color=blueviolet&label=GITHUB+PROFILE+SCORE" alt="nischaybikramthapa"/></p>
 
 ##
 

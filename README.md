@@ -18,7 +18,7 @@ I'm a **Data Scientist**, passionate about generating **value** for organisation
 
 
 ##
-<img align="right" alt="GIF" width="300px" style="margin-bottom: 100px" src="https://s7.gifyu.com/images/graph.gif" />
+<!-- <img align="right" alt="GIF" width="300px" style="margin-bottom: 100px" src="https://s7.gifyu.com/images/graph.gif" /> -->
 
 #### Languages and Tools
 

@@ -10,8 +10,8 @@
   <img align="left" alt="Nischay Thapa | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/icloud.svg" />
 </a>
 
-<p align="right"><img align="right" src="https://gitwar.herokuapp.com/badge?username=nischaybikramthapa&style=flat-square&color=blueviolet&label=GITHUB+PROFILE+SCORE" alt="nischaybikramthapa"/></p>
-
+<!-- <p align="right"><img align="right" src="https://gitwar.herokuapp.com/badge?username=nischaybikramthapa&style=flat-square&color=blueviolet&label=GITHUB+PROFILE+SCORE" alt="nischaybikramthapa"/></p>
+ -->
 ##
 
 I'm a **Data Scientist**, passionate about generating **value** for organisations with **data-driven** strategies and products. I'm currently involved in clinical NLP research and working as a Data Consultant at The Data Foundry. My interest are in Natural Language Processing, Computer Vision, Machine Learning and Explainable AI (XAI).
